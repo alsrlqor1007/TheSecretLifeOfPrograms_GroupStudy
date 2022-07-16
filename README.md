@@ -26,3 +26,4 @@
 - 5장 [컴퓨터 아키텍처와 운영체제](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B5%EC%9E%A5%5D%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 - 6장 [입출력과 네트워킹](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B6%EC%9E%A5%5D%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9)
 - 7장 [데이터 구조와 처리](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B7%EC%9E%A5%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%B2%98%EB%A6%AC)
+- 8장 [프로그래밍 언어 처리](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B8%EC%9E%A5%5D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%EC%B2%98%EB%A6%AC)
