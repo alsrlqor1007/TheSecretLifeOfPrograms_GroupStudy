@@ -28,3 +28,5 @@
 - 7장 [데이터 구조와 처리](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B7%EC%9E%A5%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%B2%98%EB%A6%AC)
 - 8장 [프로그래밍 언어 처리](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B8%EC%9E%A5%5D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%EC%B2%98%EB%A6%AC)
 - 9장 [웹 브라우저](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B9%EC%9E%A5%5D%20%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80)
+- 10장 애플리케이션 프로그래밍과 시스템 프로그래밍
+- 11장 [성능 향상을 위한 알고리즘 기법](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B11%EC%9E%A5%5D%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EB%B2%95)
