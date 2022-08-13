@@ -14,11 +14,7 @@
 
 ### Study Members
 
-#### [ParkShinyeong](https://github.com/ParkShinyeong)
-#### [alsrlqor1007](https://github.com/alsrlqor1007)
-#### [ciocio97](https://github.com/ciocio97)
-#### [qwp0905](https://github.com/qwp0905)
-#### [Jureamer](https://github.com/Jureamer)
+#### [ParkShinyeong](https://github.com/ParkShinyeong) [alsrlqor1007](https://github.com/alsrlqor1007) [ciocio97](https://github.com/ciocio97) [qwp0905](https://github.com/qwp0905) [Jureamer](https://github.com/Jureamer)
 
 <br/>
 
