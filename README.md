@@ -12,7 +12,7 @@
 
 <br/>
 
-### Contributors and Study Members
+### Study Members
 
 #### [ParkShinyeong](https://github.com/ParkShinyeong)
 #### [alsrlqor1007](https://github.com/alsrlqor1007)
