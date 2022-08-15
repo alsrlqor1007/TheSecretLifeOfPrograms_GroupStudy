@@ -34,7 +34,7 @@
 - 12장 [병렬성과 비동기성](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B12%EC%9E%A5%5D%20%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%84%B1)
 - 13장 [컴퓨터 보안](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B13%EC%9E%A5%5D%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B3%B4%EC%95%88)
 
-- <br/>
+<br/>
 
 <div align="center">
 
