@@ -32,6 +32,7 @@
 - 10장 [애플리케이션 프로그래밍과 시스템 프로그래밍](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B10%EC%9E%A5%5D%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - 11장 [성능 향상을 위한 알고리즘 기법](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B11%EC%9E%A5%5D%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EB%B2%95)
 - 12장 [병렬성과 비동기성](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B12%EC%9E%A5%5D%20%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%84%B1)
+- 13장 [컴퓨터 보안](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B13%EC%9E%A5%5D%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B3%B4%EC%95%88)
 
 <br/>
 
