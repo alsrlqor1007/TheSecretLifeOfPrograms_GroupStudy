@@ -33,6 +33,8 @@
 - 11장 [성능 향상을 위한 알고리즘 기법](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B11%EC%9E%A5%5D%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EB%B2%95)
 - 12장 [병렬성과 비동기성](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B12%EC%9E%A5%5D%20%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%84%B1)
 - 13장 [컴퓨터 보안](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B13%EC%9E%A5%5D%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B3%B4%EC%95%88)
+- 14장 [세상을 바꾸는 기계 지능](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B14%EC%9E%A5%5D%20%EC%84%B8%EC%83%81%EC%9D%84%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EA%B8%B0%EA%B3%84%20%EC%A7%80%EB%8A%A5)
+- 15장 [훌륭한 프로그래머가 되기 위한 팁과 경험담](https://github.com/alsrlqor1007/TheSecretLifeOfPrograms_GroupStudy/tree/main/%5B15%EC%9E%A5%5D%20%ED%9B%8C%EB%A5%AD%ED%95%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%ED%8C%81%EA%B3%BC%20%EA%B2%BD%ED%97%98%EB%8B%B4)
 
 <br/>
 
